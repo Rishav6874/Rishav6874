@@ -1,3 +1,4 @@
+![logo](Home.png)
 <h1 align="center">Hi 👋, I'm Rishav Chakraborty</h1>
 <h3 align="center">A passionate HR professional from India</h3>
 
